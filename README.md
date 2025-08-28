@@ -28,7 +28,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Horizontal Thumbnail Designs ↗](https://www.facebook.com/media/set/?set=a.746684368116685&type=3) | [Pinterest Pin Designs ↗](https://www.facebook.com/media/set/?set=a.746683648116757&type=3) | [Photography ↗](https://www.facebook.com/media/set/?set=a.747299138055208&type=3) |
 | [Mockup Designs ↗](https://www.facebook.com/media/set/?set=a.740852015366587&type=3) | [Photo Editing ↗](https://www.facebook.com/media/set/?set=a.737037695748019&type=3) | [Package Designs ↗](https://www.facebook.com/media/set/?set=a.740849615366827&type=3) |
 | [Vector Illustrations ↗](https://www.facebook.com/media/set/?set=a.740846462033809&type=3) | [Lettering ↗](https://www.facebook.com/media/set/?set=a.738672015584587&type=3) | [Branding & Identity ↗](https://www.facebook.com/media/set/?set=a.740295435422245&type=3) |
-| [Book Cover Designs ↗](https://www.facebook.com/media/set/?set=a.737032002415255&type=3) | [HTML Email Designs (Tailwind JS) ↗](https://www.facebook.com/media/set/?set=a.718363630948759&type=3) |  |
+| [Book Cover Designs ↗](https://www.facebook.com/media/set/?set=a.737032002415255&type=3) | [HTML Email Designs (Tailwind JS) ↗](https://www.facebook.com/media/set/?set=a.718363630948759&type=3) | [PowerPoint Presentation Designs (Tailwind JS) ↗](https://www.facebook.com/media/set/?set=a.754480494003739&type=3) |
 
 ### 1.B) 🌐 Website Development
 | | | |
@@ -80,7 +80,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Ads ↗](https://drive.google.com/drive/folders/1yULtqCdaeIz-eXHIFNleybj2EOYRQMwl?usp=drive_link) | [Animated Wallpapers ↗](https://drive.google.com/drive/folders/1Jjcm_QOfIiyazwwJcKxtGi-j7a_cTQxv?usp=drive_link) | [Courses ↗](https://drive.google.com/drive/folders/1c50-AVQ0Vs9NKjB1e2RU2eV45Kmw8-u6?usp=drive_link) |
 | [Flipbooks ↗](https://drive.google.com/drive/folders/1zUUKhOe8lhO05p1997mfrXiVy_5C7lKI?usp=drive_link) | [Horizontal ↗](https://drive.google.com/drive/folders/1zAAfujIFST8zOJUIrVlqsqh6KYlDYQgM?usp=drive_link) | [Motion Capture ↗](https://drive.google.com/drive/folders/1FXB0YPh9ub8UQOA87dL5KomGLKy_C1ev?usp=drive_link) |
 | [UGC ↗](https://drive.google.com/drive/folders/1PxD10FASbnEmlvW8756z3noBtO_72OxZ?usp=drive_link) | [Vertical ↗](https://drive.google.com/drive/folders/1QT_xalWoxWW9PDyqjCDWq_44cQQPC7sT?usp=drive_link) | [Video FX & Editing ↗](https://drive.google.com/drive/folders/1FOpsWs14mW0GVPhBFB3JLr_tUEixgWJ6?usp=drive_link) |
-| [Viral Hook Clips ↗](https://drive.google.com/drive/folders/1SFpSujAS3H_v8mCDGH6ZDYSIzHrscGBq?usp=drive_link) | [Website Animations ↗](https://drive.google.com/drive/folders/1f5mu52Uvox7AAjHe4yddZ_u4c-mlRTQP?usp=drive_link) |  |
+| [Viral Hook Clips ↗](https://drive.google.com/drive/folders/1SFpSujAS3H_v8mCDGH6ZDYSIzHrscGBq?usp=drive_link) | [Website Animations ↗](https://drive.google.com/drive/folders/1f5mu52Uvox7AAjHe4yddZ_u4c-mlRTQP?usp=drive_link) | [Whiteboard Explainers ↗](https://drive.google.com/drive/folders/1OsbzG8ZfU_Rjr_edJAnTIY43GIHFGm0b?usp=drive_link) |
 
 ### 1.H) 🖨️ Printables
 | |
@@ -195,7 +195,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 
 | |
 |---|
-| [NFT ↗](https://www.facebook.com/media/set/?set=a.738598182258637&type=3) |
+| [NFT ↗](https://www.facebook.com/media/set/?set=a.738598182258637&type=3) | [Web3 ↗](https://www.facebook.com/media/set/?set=a.754477070670748&type=3) | [Projects ↗](https://www.facebook.com/media/set/?set=a.754478634003925&type=3)
 
 [↑ Back to top](#top)
 
