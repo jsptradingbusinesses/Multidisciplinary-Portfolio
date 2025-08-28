@@ -195,7 +195,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 
 | |
 |---|
-| [NFT ↗](https://www.facebook.com/media/set/?set=a.738598182258637&type=3) | [Web3 ↗](https://www.facebook.com/media/set/?set=a.754477070670748&type=3) | [Projects ↗](https://www.facebook.com/media/set/?set=a.754478634003925&type=3) |  |  |
+| [NFT ↗](https://www.facebook.com/media/set/?set=a.738598182258637&type=3) | [Web3 ↗](https://www.facebook.com/media/set/?set=a.754477070670748&type=3) | [Projects ↗](https://www.facebook.com/media/set/?set=a.754478634003925&type=3) |
 
 [↑ Back to top](#top)
 
