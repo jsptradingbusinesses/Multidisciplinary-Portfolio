@@ -121,7 +121,8 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | | | |
 |---|---|---|
 | [Puzzle Games (Game Prototypes[Tailwind JS]) ↗](https://www.facebook.com/media/set/?set=a.718983414220114&type=3) | [Educational Kids Games (Game Prototypes[Tailwind JS]) ↗](https://www.facebook.com/media/set/?set=a.718979807553808&type=3) | [Cards Games (Game Prototypes[Tailwind JS]) ↗](https://www.facebook.com/media/set/?set=a.718976127554176&type=3) |
-| [Board Games (Game Prototypes[Tailwind JS]) ↗](https://www.facebook.com/media/set/?set=a.718971944221261&type=3) | [Flash (Game Prototypes[Tailwind JS]) ↗](https://www.facebook.com/media/set/?set=a.718378210947301&type=3) | [Roblox GDD ↗](https://www.facebook.com/media/set/?set=a.755450977240024&type=3) | | [Minecraft GDD ↗](https://www.facebook.com/media/set/?set=a.755453133906475&type=3) |  |
+| [Board Games (Game Prototypes[Tailwind JS]) ↗](https://www.facebook.com/media/set/?set=a.718971944221261&type=3) | [Flash (Game Prototypes[Tailwind JS]) ↗](https://www.facebook.com/media/set/?set=a.718378210947301&type=3) | [Roblox GDD ↗](https://www.facebook.com/media/set/?set=a.755450977240024&type=3) |
+| [Minecraft GDD ↗](https://www.facebook.com/media/set/?set=a.755453133906475&type=3) |  | 
 
 [↑ Back to top](#top)
 
