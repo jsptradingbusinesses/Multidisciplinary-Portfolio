@@ -83,9 +83,10 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Viral Hook Clips ↗](https://drive.google.com/drive/folders/1SFpSujAS3H_v8mCDGH6ZDYSIzHrscGBq?usp=drive_link) | [Website Animations ↗](https://drive.google.com/drive/folders/1f5mu52Uvox7AAjHe4yddZ_u4c-mlRTQP?usp=drive_link) | [Whiteboard Explainers ↗](https://drive.google.com/drive/folders/1OsbzG8ZfU_Rjr_edJAnTIY43GIHFGm0b?usp=drive_link) |
 
 ### 1.H) 🖨️ Printables
-| |
-|---|
-| [Full Print Layouts ↗](https://drive.google.com/drive/folders/191m92DteOYIWJlv5-QCc3QcHjsALGuiF?usp=drive_link) |
+| | | |
+|---|---|---|
+| [Magazines & Brochures ↗](https://drive.google.com/drive/folders/191m92DteOYIWJlv5-QCc3QcHjsALGuiF?usp=drive_link) | [Word Search Puzzles ↗](https://www.facebook.com/media/set/?set=a.756792020439253&type=3) | [Word Scramble ↗](https://www.facebook.com/media/set/?set=a.756792727105849&type=3) |
+| [Crossword ↗](https://www.facebook.com/media/set/?set=a.756793403772448&type=3) | [Bingo ↗](https://www.facebook.com/media/set/?set=a.756794300439025&type=3) |  |
 
 [↑ Back to top](#top)
 
@@ -115,7 +116,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Anime Logo Designs ↗](https://www.facebook.com/media/set/?set=a.747302391388216&type=3) | [Painted Anime ↗](https://www.facebook.com/media/set/?set=a.747298298055292&type=3) | [Digital Painting ↗](https://www.facebook.com/media/set/?set=a.747291178056004&type=3) |
 | [Concept Art ↗](https://www.facebook.com/media/set/?set=a.747290244722764&type=3) | [Creature Designs ↗](https://www.facebook.com/media/set/?set=a.747295048055617&type=3) | [3D Disney Character Model Designs ↗](https://www.facebook.com/media/set/?set=a.747288924722896&type=3) |
 | [2D Pokemon Illustrations ↗](https://www.facebook.com/media/set/?set=a.747285634723225&type=3) | [GTA Title Card Illustrations ↗](https://www.facebook.com/media/set/?set=a.745118604939928&type=3) | [3D ↗](https://www.facebook.com/media/set/?set=a.738601268924995&type=3) |
-| [Lego Designs ↗](https://www.facebook.com/media/set/?set=a.738599052258550&type=3) | [Voxel Art ↗](https://www.facebook.com/media/set/?set=a.738594272259028&type=3) |  |
+| [Lego Designs ↗](https://www.facebook.com/media/set/?set=a.738599052258550&type=3) | [Voxel Art ↗](https://www.facebook.com/media/set/?set=a.738594272259028&type=3) | [Minecraft Builds ↗](https://www.facebook.com/media/set/?set=a.756791263772662&type=3) |
 
 ### 3.B) 🧪 Development & Prototypes
 | | | |
