@@ -15,7 +15,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 |---|---|---|---|---|
 | [1. Business & Marketing](#business-marketing) | [2. Writing](#writing) | [3. Game Design & Dev](#game-design) | [4. Medical Industry](#medical) | [5. Arts & Crafts](#arts-and-crafts) |
 | [6. Blueprints](#blueprints) | [7. Interior Designs](#interior-designs) | [8. Industrial Design](#industrial-design) | [9. Blockchain](#blockchain) | [10. Artificial Intelligence](#ai) |
-
+| [11. Trading](#trading) |  |  |  |  |
 ---
 
 <a id="business-marketing"></a>
@@ -211,3 +211,16 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [LLMs Comparison ↗](https://www.facebook.com/media/set/?set=a.728090633309392&type=3) |
 
 [↑ Back to top](#top)
+
+---
+
+<a id="trading"></a>
+## 11) 🗠 Trading
+
+| | | |
+|---|---|---|
+| [Stock ↗](https://www.facebook.com/media/set/?set=a.758270003624788&type=3) | [Crypto ↗](https://www.facebook.com/media/set/?set=a.758271913624597&type=3) |  |
+
+[↑ Back to top](#top)
+
+---
