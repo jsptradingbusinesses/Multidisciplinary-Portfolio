@@ -15,7 +15,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 |---|---|---|---|---|
 | [1. Business & Marketing](#business-marketing) | [2. Writing](#writing) | [3. Game Design & Dev](#game-design) | [4. Medical Industry](#medical) | [5. Arts & Crafts](#arts-and-crafts) |
 | [6. Blueprints](#blueprints) | [7. Interior Designs](#interior-designs) | [8. Industrial Design](#industrial-design) | [9. Blockchain](#blockchain) | [10. Artificial Intelligence](#ai) |
-| [11. Trading](#trading) |  |  |  |  |
+| [11. Trading](#trading) | [12. Photos](#photography) |  |  |  |
 ---
 
 <a id="business-marketing"></a>
@@ -25,8 +25,8 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | | | |
 |---|---|---|
 | [Logo Designs ↗](https://www.facebook.com/media/set/?set=a.740990298686092&type=3) | [Social Media ↗](https://www.facebook.com/media/set/?set=a.738597395592049&type=3) | [Vertical Thumbnail Designs ↗](https://www.facebook.com/media/set/?set=a.746684791449976&type=3) |
-| [Horizontal Thumbnail Designs ↗](https://www.facebook.com/media/set/?set=a.746684368116685&type=3) | [Pinterest Pin Designs ↗](https://www.facebook.com/media/set/?set=a.746683648116757&type=3) | [Photography ↗](https://www.facebook.com/media/set/?set=a.747299138055208&type=3) |
-| [Mockup Designs ↗](https://www.facebook.com/media/set/?set=a.740852015366587&type=3) | [Photo Editing ↗](https://www.facebook.com/media/set/?set=a.737037695748019&type=3) | [Package Designs ↗](https://www.facebook.com/media/set/?set=a.740849615366827&type=3) |
+| [Horizontal Thumbnail Designs ↗](https://www.facebook.com/media/set/?set=a.746684368116685&type=3) | [Pinterest Pin Designs ↗](https://www.facebook.com/media/set/?set=a.746683648116757&type=3) |  |
+| [Mockup Designs ↗](https://www.facebook.com/media/set/?set=a.740852015366587&type=3) |  | [Package Designs ↗](https://www.facebook.com/media/set/?set=a.740849615366827&type=3) |
 | [Vector Illustrations ↗](https://www.facebook.com/media/set/?set=a.740846462033809&type=3) | [Lettering ↗](https://www.facebook.com/media/set/?set=a.738672015584587&type=3) | [Branding & Identity ↗](https://www.facebook.com/media/set/?set=a.740295435422245&type=3) |
 | [Book Cover Designs ↗](https://www.facebook.com/media/set/?set=a.737032002415255&type=3) | [HTML Email Designs (Tailwind JS) ↗](https://www.facebook.com/media/set/?set=a.718363630948759&type=3) | [PowerPoint Presentation Designs ↗](https://www.facebook.com/media/set/?set=a.754480494003739&type=3) |
 
@@ -215,11 +215,22 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 ---
 
 <a id="trading"></a>
-## 11) 🗠 Trading
+## 11) 📉 Trading
 
 | | | |
 |---|---|---|
 | [Stock ↗](https://www.facebook.com/media/set/?set=a.758270003624788&type=3) | [Crypto ↗](https://www.facebook.com/media/set/?set=a.758271913624597&type=3) |  |
+
+[↑ Back to top](#top)
+
+---
+
+<a id="photography"></a>
+## 12) 📷 Photos
+
+| | | |
+|---|---|---|
+| [Photography ↗](https://www.facebook.com/media/set/?set=a.747299138055208&type=3) | [Editing ↗](https://www.facebook.com/media/set/?set=a.737037695748019&type=3) | [Presets ↗](https://www.facebook.com/media/set/?set=a.758442150274240&type=3) |
 
 [↑ Back to top](#top)
 
