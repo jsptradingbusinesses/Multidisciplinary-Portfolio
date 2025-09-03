@@ -63,6 +63,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Bookkeeping ↗](https://www.facebook.com/media/set/?set=a.745112964940492&type=3) | [Data ↗](https://www.facebook.com/media/set/?set=a.744212381697217&type=3) | [Data Entry ↗](https://www.facebook.com/media/set/?set=a.741933828591739&type=3) |
 | [Business Research Reports ↗](https://www.facebook.com/media/set/?set=a.741831918601930&type=3) | [Cyber Security Research Reports ↗](https://www.facebook.com/media/set/?set=a.741827215269067&type=3) | [Computer Science Research Reports ↗](https://www.facebook.com/media/set/?set=a.741825365269252&type=3) |
 | [Artificial Intelligence Research Reports ↗](https://www.facebook.com/media/set/?set=a.741823808602741&type=3) | [Web Scraping ↗](https://www.facebook.com/media/set/?set=a.741809738604148&type=3) | [Supply Chain Import & Export Arbitrage ↗](https://www.facebook.com/media/set/?set=a.740992378685884&type=3) |
+| [KPI ↗](https://www.facebook.com/media/set/?set=a.759334546851667&type=3) |  |  |
 
 ### 1.E) 🤝 CRM
 | | | |
@@ -150,6 +151,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 |---|---|---|
 | [A4 Ready To Print Stickers ↗](https://www.facebook.com/media/set/?set=a.753005650817890&type=3) | [Quotation Stickers ↗](https://www.facebook.com/media/set/?set=a.749577774494011&type=3) | [Square Cut Stickers ↗](https://www.facebook.com/media/set/?set=a.749575787827543&type=3) |
 | [Papercraft Designs ↗](https://www.facebook.com/media/set/?set=a.740850738700048&type=3) | [Lettering ↗](https://www.facebook.com/media/set/?set=a.738672015584587&type=3) | [Pattern Designs ↗](https://www.facebook.com/media/set/?set=a.736966215755167&type=3) |
+| [Album Cover Designs ↗]([https://www.facebook.com/media/set/?set=a.740850738700048&type=3](https://www.facebook.com/media/set/?set=a.759342650184190&type=3)) | [T-Shirt Designs ↗](https://www.facebook.com/media/set/?set=a.759338273517961&type=3) |  |
 
 [↑ Back to top](#top)
 
