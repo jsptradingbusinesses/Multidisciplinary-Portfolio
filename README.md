@@ -151,7 +151,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 |---|---|---|
 | [A4 Ready To Print Stickers ↗](https://www.facebook.com/media/set/?set=a.753005650817890&type=3) | [Quotation Stickers ↗](https://www.facebook.com/media/set/?set=a.749577774494011&type=3) | [Square Cut Stickers ↗](https://www.facebook.com/media/set/?set=a.749575787827543&type=3) |
 | [Papercraft Designs ↗](https://www.facebook.com/media/set/?set=a.740850738700048&type=3) | [Lettering ↗](https://www.facebook.com/media/set/?set=a.738672015584587&type=3) | [Pattern Designs ↗](https://www.facebook.com/media/set/?set=a.736966215755167&type=3) |
-| [Album Cover Designs ↗]([https://www.facebook.com/media/set/?set=a.740850738700048&type=3](https://www.facebook.com/media/set/?set=a.759342650184190&type=3)) | [T-Shirt Designs ↗](https://www.facebook.com/media/set/?set=a.759338273517961&type=3) |  |
+| [Album Cover Designs ↗](https://www.facebook.com/media/set/?set=a.759342650184190&type=3) | [T-Shirt Designs ↗](https://www.facebook.com/media/set/?set=a.759338273517961&type=3) |  |
 
 [↑ Back to top](#top)
 
