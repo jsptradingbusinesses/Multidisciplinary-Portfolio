@@ -146,7 +146,6 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 <a id="arts-and-crafts"></a>
 ## 5) ✂️ Arts & Crafts
 
-### 5.A) 🩹 Stickers
 | | | |
 |---|---|---|
 | [A4 Ready To Print Stickers ↗](https://www.facebook.com/media/set/?set=a.753005650817890&type=3) | [Quotation Stickers ↗](https://www.facebook.com/media/set/?set=a.749577774494011&type=3) | [Square Cut Stickers ↗](https://www.facebook.com/media/set/?set=a.749575787827543&type=3) |
