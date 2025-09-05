@@ -118,6 +118,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Concept Art ↗](https://www.facebook.com/media/set/?set=a.747290244722764&type=3) | [Creature Designs ↗](https://www.facebook.com/media/set/?set=a.747295048055617&type=3) | [3D Disney Character Model Designs ↗](https://www.facebook.com/media/set/?set=a.747288924722896&type=3) |
 | [2D Pokemon Illustrations ↗](https://www.facebook.com/media/set/?set=a.747285634723225&type=3) | [GTA Title Card Illustrations ↗](https://www.facebook.com/media/set/?set=a.745118604939928&type=3) | [3D ↗](https://www.facebook.com/media/set/?set=a.738601268924995&type=3) |
 | [Lego Designs ↗](https://www.facebook.com/media/set/?set=a.738599052258550&type=3) | [Voxel Art ↗](https://www.facebook.com/media/set/?set=a.738594272259028&type=3) | [Minecraft Builds ↗](https://www.facebook.com/media/set/?set=a.756791263772662&type=3) |
+| [Manga Cover Illustrations ↗](https://www.facebook.com/media/set/?set=a.760823673369421&type=3) |  |  |
 
 ### 3.B) 🧪 Development & Prototypes
 | | | |
@@ -150,7 +151,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 |---|---|---|
 | [A4 Ready To Print Stickers ↗](https://www.facebook.com/media/set/?set=a.753005650817890&type=3) | [Quotation Stickers ↗](https://www.facebook.com/media/set/?set=a.749577774494011&type=3) | [Square Cut Stickers ↗](https://www.facebook.com/media/set/?set=a.749575787827543&type=3) |
 | [Papercraft Designs ↗](https://www.facebook.com/media/set/?set=a.740850738700048&type=3) | [Lettering ↗](https://www.facebook.com/media/set/?set=a.738672015584587&type=3) | [Pattern Designs ↗](https://www.facebook.com/media/set/?set=a.736966215755167&type=3) |
-| [Album Cover Designs ↗](https://www.facebook.com/media/set/?set=a.759342650184190&type=3) | [T-Shirt Designs ↗](https://www.facebook.com/media/set/?set=a.759338273517961&type=3) |  |
+| [Album Cover Designs ↗](https://www.facebook.com/media/set/?set=a.759342650184190&type=3) | [T-Shirt Designs ↗](https://www.facebook.com/media/set/?set=a.759338273517961&type=3) | [Asian Movie Poster Designs ↗](https://www.facebook.com/media/set/?set=a.760819600036495&type=3) |
 
 [↑ Back to top](#top)
 
