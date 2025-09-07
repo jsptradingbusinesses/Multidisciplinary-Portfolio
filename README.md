@@ -63,7 +63,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Bookkeeping ↗](https://www.facebook.com/media/set/?set=a.745112964940492&type=3) | [Data ↗](https://www.facebook.com/media/set/?set=a.744212381697217&type=3) | [Data Entry ↗](https://www.facebook.com/media/set/?set=a.741933828591739&type=3) |
 | [Business Research Reports ↗](https://www.facebook.com/media/set/?set=a.741831918601930&type=3) | [Cyber Security Research Reports ↗](https://www.facebook.com/media/set/?set=a.741827215269067&type=3) | [Computer Science Research Reports ↗](https://www.facebook.com/media/set/?set=a.741825365269252&type=3) |
 | [Artificial Intelligence Research Reports ↗](https://www.facebook.com/media/set/?set=a.741823808602741&type=3) | [Web Scraping ↗](https://www.facebook.com/media/set/?set=a.741809738604148&type=3) | [Supply Chain Import & Export Arbitrage ↗](https://www.facebook.com/media/set/?set=a.740992378685884&type=3) |
-| [KPI ↗](https://www.facebook.com/media/set/?set=a.759334546851667&type=3) |  |  |
+| [KPI ↗](https://www.facebook.com/media/set/?set=a.759334546851667&type=3) | [Thesis ↗](https://www.facebook.com/media/set/?set=a.762291326555989&type=3) | [Capstone ↗](https://www.facebook.com/media/set/?set=a.762294016555720&type=3) |
 
 ### 1.E) 🤝 CRM
 | | | |
