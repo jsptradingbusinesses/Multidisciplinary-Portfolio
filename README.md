@@ -89,6 +89,12 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Magazines & Brochures ↗](https://drive.google.com/drive/folders/191m92DteOYIWJlv5-QCc3QcHjsALGuiF?usp=drive_link) | [Word Search Puzzles ↗](https://www.facebook.com/media/set/?set=a.756792020439253&type=3) | [Word Scramble ↗](https://www.facebook.com/media/set/?set=a.756792727105849&type=3) |
 | [Crossword ↗](https://www.facebook.com/media/set/?set=a.756793403772448&type=3) | [Bingo ↗](https://www.facebook.com/media/set/?set=a.756794300439025&type=3) |  |
 
+### 1.I) 🖨️ Media Buying Ads
+| | | |
+|---|---|---|
+| [Meta ↗](https://www.facebook.com/media/set/?set=a.764369513014837&type=3) | [Google ↗](https://www.facebook.com/media/set/?set=a.764370369681418&type=3) | [LinkedIn ↗](https://www.facebook.com/media/set/?set=a.764371269681328&type=3) |
+| [Twitter/X ↗](https://www.facebook.com/media/set/?set=a.764372073014581&type=3) | [Pinterest ↗](https://www.facebook.com/media/set/?set=a.764372933014495&type=3) |  |
+
 [↑ Back to top](#top)
 
 ---
