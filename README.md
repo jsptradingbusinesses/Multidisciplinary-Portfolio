@@ -87,7 +87,15 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | | | |
 |---|---|---|
 | [Magazines & Brochures ↗](https://drive.google.com/drive/folders/191m92DteOYIWJlv5-QCc3QcHjsALGuiF?usp=drive_link) | [Word Search Puzzles ↗](https://www.facebook.com/media/set/?set=a.756792020439253&type=3) | [Word Scramble ↗](https://www.facebook.com/media/set/?set=a.756792727105849&type=3) |
-| [Crossword ↗](https://www.facebook.com/media/set/?set=a.756793403772448&type=3) | [Bingo ↗](https://www.facebook.com/media/set/?set=a.756794300439025&type=3) |  |
+| [Crossword ↗](https://www.facebook.com/media/set/?set=a.756793403772448&type=3) | [Bingo ↗](https://www.facebook.com/media/set/?set=a.756794300439025&type=3) | [Flashcards ↗](https://www.facebook.com/media/set/?set=a.782357277882727&type=3) |
+| [Mazes Worksheets ↗](https://www.facebook.com/media/set/?set=a.782275927890862&type=3) | [Origami For Kids ↗](https://www.facebook.com/media/set/?set=a.782278411223947&type=3) | [Find the Difference ↗](https://www.facebook.com/media/set/?set=a.782280424557079&type=3) |
+| [Cartoon Stickers ↗](https://www.facebook.com/media/set/?set=a.782281821223606&type=3) | [Time Worksheets ↗](https://www.facebook.com/media/set/?set=a.782283071223481&type=3) | [Body Parts Worksheets ↗](https://www.facebook.com/media/set/?set=a.782284251223363&type=3) |
+| [Find The Same Worksheets ↗](https://www.facebook.com/media/set/?set=a.782285451223243&type=3) | [Matching Worksheets ↗](https://www.facebook.com/media/set/?set=a.782287067889748&type=3) | [Tracing Lines Worksheets ↗](https://www.facebook.com/media/set/?set=a.782288524556269&type=3) |
+| [General Knowledge ↗](https://www.facebook.com/media/set/?set=a.782289721222816&type=3) | [Digraph Worksheets ↗](https://www.facebook.com/media/set/?set=a.782290941222694&type=3) | [Sight Words Worksheets ↗](https://www.facebook.com/media/set/?set=a.782293841222404&type=3) |
+| [English Worksheets ↗](https://www.facebook.com/media/set/?set=a.782296987888756&type=3) | [Counting Worksheets ↗](https://www.facebook.com/media/set/?set=a.782298621221926&type=3) | [Multiplication Worksheets ↗](https://www.facebook.com/media/set/?set=a.782300641221724&type=3) |
+| [Subtraction Worksheets ↗](https://www.facebook.com/media/set/?set=a.782301881221600&type=3) | [Addition Worksheets ↗](https://www.facebook.com/media/set/?set=a.782303337888121&type=3) | [Dot to Dot Worksheets ↗](https://www.facebook.com/media/set/?set=a.782305351221253&type=3) |
+| [Drawing Worksheets ↗](https://www.facebook.com/media/set/?set=a.782309421220846&type=3) | [Coloring Worksheets ↗](https://www.facebook.com/media/set/?set=a.782315977886857&type=3) | [Number Tracing Worksheets ↗](https://www.facebook.com/media/set/?set=a.782318034553318&type=3) |
+| [Alphabet Cursive Letter Tracing Worksheets ↗](https://www.facebook.com/media/set/?set=a.782352554549866&type=3) | [Patterns Worksheets ↗](https://www.facebook.com/media/set/?set=a.782353827883072&type=3) | [Shapes Worksheets ↗](https://www.facebook.com/media/set/?set=a.782355711216217&type=3) |
 
 ### 1.I) 🖨️ Media Buying Ads
 | | | |
