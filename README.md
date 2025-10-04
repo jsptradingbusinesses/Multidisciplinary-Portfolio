@@ -44,6 +44,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Survey Funnel ↗](https://www.facebook.com/media/set/?set=a.741819975269791&type=3) | [Squeeze Page Funnel ↗](https://www.facebook.com/media/set/?set=a.741819458603176&type=3) | [Reverse Squeeze Page Funnel ↗](https://www.facebook.com/media/set/?set=a.741819021936553&type=3) |
 | [Product Launch Funnel ↗](https://www.facebook.com/media/set/?set=a.741818381936617&type=3) | [Live Demo Funnel ↗](https://www.facebook.com/media/set/?set=a.741817955269993&type=3) | [Limited Time Offer Funnel ↗](https://www.facebook.com/media/set/?set=a.741817521936703&type=3) |
 | [Lead Magnet Funnel ↗](https://www.facebook.com/media/set/?set=a.741817028603419&type=3) | [Daily Deal Funnel ↗](https://www.facebook.com/media/set/?set=a.741816565270132&type=3) | [Cancellation Funnel ↗](https://www.facebook.com/media/set/?set=a.741816168603505&type=3) |
+| [A/B Testingl ↗](https://www.facebook.com/media/set/?set=a.784503577668097&type=3) |  |  |
 
 #### 1.B.2) 🏗️ Online CRMs & Builders
 | | | |
