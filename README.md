@@ -67,6 +67,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [Artificial Intelligence Research Reports ↗](https://www.facebook.com/media/set/?set=a.741823808602741&type=3) | [Web Scraping ↗](https://www.facebook.com/media/set/?set=a.741809738604148&type=3) | [Supply Chain Import & Export Arbitrage ↗](https://www.facebook.com/media/set/?set=a.740992378685884&type=3) |
 | [KPI ↗](https://www.facebook.com/media/set/?set=a.759334546851667&type=3) | [Thesis ↗](https://www.facebook.com/media/set/?set=a.762291326555989&type=3) | [Capstone ↗](https://www.facebook.com/media/set/?set=a.762294016555720&type=3) |
 | [Real Estate ↗](https://www.facebook.com/media/set/?set=a.786192514165870&type=3) | [Construction ↗](https://www.facebook.com/media/set/?set=a.788722520579536&type=3) | [Automotive ↗](https://www.facebook.com/media/set/?set=a.791592066959248&type=3) |
+| [Brokerage ↗](https://www.facebook.com/media/set/?set=a.799705772814544&type=3) |  |  |
 
 ### 1.E) 🤝 CRM
 | | | |
