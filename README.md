@@ -53,7 +53,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [GoHighLevel ↗](https://www.facebook.com/media/set/?set=a.747351941383261&type=3) | [WordPress ↗](https://www.facebook.com/media/set/?set=a.725881566863632&type=3) | [WooCommerce ↗](https://www.facebook.com/media/set/?set=a.725875490197573&type=3) |
 | [Wix ↗](https://www.facebook.com/media/set/?set=a.725874230197699&type=3) | [Webflow ↗](https://www.facebook.com/media/set/?set=a.725872763531179&type=3) | [SquareSpace ↗](https://www.facebook.com/media/set/?set=a.725870943531361&type=3) |
 | [Shopify ↗](https://www.facebook.com/media/set/?set=a.725869470198175&type=3) | [GoDaddy ↗](https://www.facebook.com/media/set/?set=a.725868123531643&type=3) | [Elementor ↗](https://www.facebook.com/media/set/?set=a.725864596865329&type=3) |
-| [Appointment Setting & Calendar Management ↗](https://www.facebook.com/media/set/?set=a.806670672118054&type=3) |  |  |
+| [Appointment Setting & Calendar Management ↗](https://www.facebook.com/media/set/?set=a.806670672118054&type=3) | [Product Listing ↗](https://www.facebook.com/media/set/?set=a.814368358014952&type=3) |  |
 
 ### 1.C) 📱 Mobile Development
 | | | |
