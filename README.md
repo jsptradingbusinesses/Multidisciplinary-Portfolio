@@ -15,7 +15,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 |---|---|---|---|---|
 | [1. Business & Marketing](#business-marketing) | [2. Writing](#writing) | [3. Game Design & Dev](#game-design) | [4. Medical Industry](#medical) | [5. Arts & Crafts](#arts-and-crafts) |
 | [6. Blueprints](#blueprints) | [7. Interior Designs](#interior-designs) | [8. Industrial Design](#industrial-design) | [9. Blockchain](#blockchain) | [10. Artificial Intelligence](#ai) |
-| [11. Trading](#trading) | [12. Photos](#photography) |  |  |  |
+| [11. Trading](#trading) | [12. Photos](#photography) | [13. Legal](#legal) |  |  |
 ---
 
 <a id="business-marketing"></a>
@@ -252,6 +252,17 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | | | |
 |---|---|---|
 | [Photography ↗](https://www.facebook.com/media/set/?set=a.747299138055208&type=3) | [Editing ↗](https://www.facebook.com/media/set/?set=a.737037695748019&type=3) | [Presets ↗](https://www.facebook.com/media/set/?set=a.758442150274240&type=3) |
+
+[↑ Back to top](#top)
+
+---
+
+<a id="legal"></a>
+## 12) ⚖️ Legal
+
+| | | |
+|---|---|---|
+| [Legal ↗](https://www.facebook.com/media/set/?set=a.825554270229694&type=3) |  |  |
 
 [↑ Back to top](#top)
 
