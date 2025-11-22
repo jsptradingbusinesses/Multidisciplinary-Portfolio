@@ -258,7 +258,7 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 ---
 
 <a id="legal"></a>
-## 12) ⚖️ Legal
+## 13) ⚖️ Legal
 
 | | | |
 |---|---|---|
