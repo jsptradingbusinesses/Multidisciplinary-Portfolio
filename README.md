@@ -119,7 +119,10 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 |---|---|---|
 | [SEO ↗](https://www.facebook.com/media/set/?set=a.741812368603885&type=3) | [SEM ↗](https://www.facebook.com/media/set/?set=a.741815201936935&type=3) | [Video Copy & SEO ↗](https://www.facebook.com/media/set/?set=a.748080777977044&type=3) |
 | [Backlinks ↗](https://www.facebook.com/media/set/?set=a.744208751697580&type=3) | [Transcription ↗](https://www.facebook.com/media/set/?set=a.753214517463670&type=3) | [Translation ↗](https://www.facebook.com/media/set/?set=a.753212280797227&type=3) |
-| [Manga/Manhwa Script Writing ↗](https://www.facebook.com/media/set/?set=a.743455095106279&type=3) | [Copywriting ↗](https://www.facebook.com/media/set/?set=a.741940948591027&type=3) |  |
+| [Manga/Manhwa Script Writing ↗](https://www.facebook.com/media/set/?set=a.743455095106279&type=3) | [Copywriting ↗](https://www.facebook.com/media/set/?set=a.741940948591027&type=3) | [Grant Writing ↗](https://www.facebook.com/media/set/?set=a.859547686830352&type=3) |
+| [News Writing ↗](https://www.facebook.com/media/set/?set=a.859548650163589&type=3) | [Article Writing ↗](https://www.facebook.com/media/set/?set=a.859549616830159&type=3) | [Blog Writing ↗](https://www.facebook.com/media/set/?set=a.859550520163402&type=3) |
+| [Wikipedia Editing Writing ↗](https://www.facebook.com/media/set/?set=a.859551573496630&type=3) |  |  |
+
 
 [↑ Back to top](#top)
 
