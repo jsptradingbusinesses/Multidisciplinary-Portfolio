@@ -69,6 +69,8 @@ Crafting brand identities, websites, apps, games, research, blueprints, and more
 | [KPI ↗](https://www.facebook.com/media/set/?set=a.759334546851667&type=3) | [Thesis ↗](https://www.facebook.com/media/set/?set=a.762291326555989&type=3) | [Capstone ↗](https://www.facebook.com/media/set/?set=a.762294016555720&type=3) |
 | [Real Estate ↗](https://www.facebook.com/media/set/?set=a.786192514165870&type=3) | [Construction ↗](https://www.facebook.com/media/set/?set=a.788722520579536&type=3) | [Automotive ↗](https://www.facebook.com/media/set/?set=a.791592066959248&type=3) |
 | [Brokerage ↗](https://www.facebook.com/media/set/?set=a.799705772814544&type=3) | [Lead Generation ↗](https://www.facebook.com/media/set/?set=a.801740139277774&type=3) | [Sales Development Representative ↗](https://www.facebook.com/media/set/?set=a.803515872433534&type=3) |
+| [Diagrams ↗](https://www.facebook.com/media/set/?set=a.864621636322957&type=3) | [Flowcharts ↗](https://www.facebook.com/media/set/?set=a.864624426322678&type=3) | [Wireframes ↗](https://www.facebook.com/media/set/?set=a.864626216322499&type=3) |
+| [Roadmaps ↗](https://www.facebook.com/media/set/?set=a.864627416322379&type=3) |  |  |
 
 ### 1.E) 🤝 CRM
 | | | |
